@@ -1,16 +1,17 @@
-# 👋🧩 Morphe Patches template
+# 🔤 Jayden's LINE Patches
 
-Template repository for Morphe Patches.
+A custom font patch for LINE. Compatible with Morphe.
 
 ## ❓ About
 
-Patches for apps I like.
+`[General] Custom font` sets a font file from your device as the font of LINE's themes.
+Select the patch, then give the full path of a `.ttf`, `.otf` or `.ttc` file in its "Font file" option.
 
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
+Text that LINE draws without a theme font, such as Jetpack Compose screens, can keep the system font.
 
 ### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=jaydenluuuu-sys/line-font-patches
 
 ## 🩹 Patches list
 
@@ -88,4 +89,4 @@ See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation
 
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+These patches are licensed under the [GNU General Public License v3.0](LICENSE)
